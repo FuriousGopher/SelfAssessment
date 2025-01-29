@@ -1,22 +1,22 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming h
+  - Procedural programming: 👂 heard
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming u
-  - Prototype-based programming u
-  - Object-oriented programming u
+  - Functional programming: 🖐️ used
+  - Prototype-based programming: 🖐️ used
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
-  - Generic programming u
+  - Generic programming: 🖐️ used
   - Concurrent computing
-  - Asynchronous programming u
+  - Asynchronous programming: 🖐️ used
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages u
+  - Domain-specific languages: 🖐️ used
   - Multi-paradigm programming
   - Metaprogramming
   - Actor model
@@ -27,44 +27,44 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor u
-  - Operator `new` u
-  - Static method u
-  - Method u
-  - Async method u
-  - Getters, Setters u
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
+  - Getters, Setters: 🖐️ used
   - Public fields
   - Private fields
   - Field declarations
   - Inheritance
   - Parent class
   - Polymorphism
-  - Abstract class h
-  - Interface u
+  - Abstract class: 👂 heard
+  - Interface: 🖐️ used
   - Encapsulation
   - Hidden class
   - Object form
-  - Instance u
+  - Instance: 🖐️ used
   - Introspection
   - Reflection
   - The diamond problem
 - GRASP
   - Information expert
-  - Creator h
-  - Controller h 
-  - Indirection h
-  - Low coupling h
-  - High cohesion h
-  - Protected variations h
-  - Pure fabrication h
+  - Creator: 👂 heard
+  - Controller: 👂 heard
+  - Indirection: 👂 heard
+  - Low coupling: 👂 heard
+  - High cohesion: 👂 heard
+  - Protected variations: 👂 heard
+  - Pure fabrication: 👂 heard
 - SOLID
-  - Single-responsibility principle (SRP) u
-  - Open–closed principle (OCP) u
-  - Liskov substitution principle (LSP) u
-  - Interface segregation principle (ISP) u
-  - Dependency inversion principle (DIP) u
+  - Single-responsibility principle (SRP): 🖐️ used
+  - Open–closed principle (OCP): 🖐️ used
+  - Liskov substitution principle (LSP): 🖐️ used
+  - Interface segregation principle (ISP): 🖐️ used
+  - Dependency inversion principle (DIP): 🖐️ used
 - Patterns
-  - Singleton u
+  - Singleton: 🖐️ used
   - Factory Method
   - Abstract Factory
   - Adapter
@@ -80,7 +80,7 @@
   - Builder
   - Prototype
   - Composite
-  - Decorator u
+  - Decorator: 🖐️ used
   - Flyweight
   - Mediator
   - Memento

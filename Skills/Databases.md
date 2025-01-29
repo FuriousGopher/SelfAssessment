@@ -1,40 +1,40 @@
 ## Databases
 
 - Theory and concepts
-  - Data types e
-  - Performance tuning e
-  - Migrations e
-  - Schema versioning e
-  - Backup and recovery e
-  - Database scalability e
-  - Relational databases e
-  - Key-value store e
-  - Tuple store u
-  - Graph databases  h
-  - Object databases h
-  - Column databases h
-  - Navigational databases h
-  - Hierarchical databases h
-  - In-memory databases e
-  - Inverted index h
-  - Data control language (DCL) e
-  - Data definition language (DDL) e
-  - Data manipulation language (DML) e
-  - Data query language (DQL) e
+  - Data types: 🙋 explained
+  - Performance tuning: 🙋 explained
+  - Migrations: 🙋 explained
+  - Schema versioning: 🙋 explained
+  - Backup and recovery: 🙋 explained
+  - Database scalability: 🙋 explained
+  - Relational databases: 🙋 explained
+  - Key-value store: 🙋 explained
+  - Tuple store: 🖐️ used
+  - Graph databases: 👂 heard
+  - Object databases: 👂 heard
+  - Column databases: 👂 heard
+  - Navigational databases: 👂 heard
+  - Hierarchical databases: 👂 heard
+  - In-memory databases: 🙋 explained
+  - Inverted index: 👂 heard
+  - Data control language (DCL): 🙋 explained
+  - Data definition language (DDL): 🙋 explained
+  - Data manipulation language (DML): 🙋 explained
+  - Data query language (DQL): 🙋 explained
 - Relational
-  - Entity-Relationship Diagram u
-  - Normal forms h
-  - Indexing e
-  - Primary keys e
-  - Foreign keys e
-  - Transactions e
-  - Views u
-  - Subqueries u
-  - Stored procedures u
-  - SQL functions u
-  - Materialized views h
-  - Replications h
-  - Virtualization h
+  - Entity-Relationship Diagram: 🖐️ used
+  - Normal forms: 👂 heard
+  - Indexing: 🙋 explained
+  - Primary keys: 🙋 explained
+  - Foreign keys: 🙋 explained
+  - Transactions: 🙋 explained
+  - Views: 🖐️ used
+  - Subqueries: 🖐️ used
+  - Stored procedures: 🖐️ used
+  - SQL functions: 🖐️ used
+  - Materialized views: 👂 heard
+  - Replications: 👂 heard
+  - Virtualization: 👂 heard
 - SQL e
   - `SELECT`
   - `INSERT`
@@ -70,25 +70,25 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL u
-  - Oracle h
-  - MySQL u
-  - MariaDB h
-  - MS SQL Server h
-  - Redis e
-  - Rabbit h
-  - MongoDB u
-  - Memcached 
+  - PostgreSQL: 🖐️ used
+  - Oracle: 👂 heard
+  - MySQL: 🖐️ used
+  - MariaDB: 👂 heard
+  - MS SQL Server: 👂 heard
+  - Redis: 🙋 explained
+  - Rabbit: 👂 heard
+  - MongoDB: 🖐️ used
+  - Memcached
   - Riak
   - DB2
-  - SQLite h
-  - DynamoDB h
-  - Firebase u
+  - SQLite: 👂 heard
+  - DynamoDB: 👂 heard
+  - Firebase: 🖐️ used
 - Data engineering
-  - Data warehousing h
-  - Business intelligence h
-  - Big data h
-  - Data analysis h
-  - AI tools h
-  - Cloud databases h
-  - Data Visualization h
+  - Data warehousing: 👂 heard
+  - Business intelligence: 👂 heard
+  - Big data: 👂 heard
+  - Data analysis: 👂 heard
+  - AI tools: 👂 heard
+  - Cloud databases: 👂 heard
+  - Data Visualization: 👂 heard

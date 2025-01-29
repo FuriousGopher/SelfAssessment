@@ -1,11 +1,11 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model u
-  - Modeling h
+  - Model: 🖐️ used
+  - Modeling: 👂 heard
   - Subject domain
-  - Algorithm h
-  - Syntax h
+  - Algorithm: 👂 heard
+  - Syntax: 👂 heard
   - Semantics
   - Abstraction
   - Paradigm
@@ -13,24 +13,24 @@
   - Programming paradigm
   - Programming language
   - Contract
-  - Module h
-  - Library u
-  - Package u
+  - Module: 👂 heard
+  - Library: 🖐️ used
+  - Package: 🖐️ used
   - Component
-  - Framework u
-  - Platform u
-  - Source code u
-  - Object code h
-  - Machine code h
+  - Framework: 🖐️ used
+  - Platform: 🖐️ used
+  - Source code: 🖐️ used
+  - Object code: 👂 heard
+  - Machine code: 👂 heard
   - Microcode
-  - Software engineering e
+  - Software engineering: 🙋 explained
   - Decomposition
   - Control flow
   - Data flow
-  - Code reuse e
-  - Defensive programming e
-  - Don't repeat yourself (DRY) e
-  - KISS principle e
+  - Code reuse: 🙋 explained
+  - Defensive programming: 🙋 explained
+  - Don't repeat yourself (DRY): 🙋 explained
+  - KISS principle: 🙋 explained
 - Syntax and concepts
   - Value
   - Identifier
@@ -39,39 +39,39 @@
   - Scalar
   - Literal
   - Expression
-  - Heap u
-  - Function u
+  - Heap: 🖐️ used
+  - Function: 🖐️ used
   - Procedure
-  - Method u
-  - Class u
+  - Method: 🖐️ used
+  - Class: 🖐️ used
   - Prototype
   - Event
-  - Type u
+  - Type: 🖐️ used
   - Flag
   - Lexical scope
   - Code block
   - Conditions
-  - Loops u
+  - Loops: 🖐️ used
   - Assignment
   - Regular expression
   - Interface
   - Namespaces
   - Call stack
-  - Naming conventions u
-  - Coding conventions u
-  - Camel case u
-  - Snake case u
-  - Kebab case u
-  - Trailing commas u
-  - Return early u
-  - Fail-fast u
+  - Naming conventions: 🖐️ used
+  - Coding conventions: 🖐️ used
+  - Camel case: 🖐️ used
+  - Snake case: 🖐️ used
+  - Kebab case: 🖐️ used
+  - Trailing commas: 🖐️ used
+  - Return early: 🖐️ used
+  - Fail-fast: 🖐️ used
 - Types
-  - Primitive types u
-  - Reference types u
+  - Primitive types: 🖐️ used
+  - Reference types: 🖐️ used
   - Type systems
-  - Strong typing u
-  - Weak typing h
-  - Duck typing h
+  - Strong typing: 🖐️ used
+  - Weak typing: 👂 heard
+  - Duck typing: 👂 heard
   - Static typing
   - Dynamic typing
   - Nominal typing
@@ -105,15 +105,15 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array u
-  - Structure u
-  - Record u
-  - Enum u
+  - Array: 🖐️ used
+  - Structure: 🖐️ used
+  - Record: 🖐️ used
+  - Enum: 🖐️ used
   - Instance
   - Object
-  - Collection u
-  - Set u
-  - Hash table u
+  - Collection: 🖐️ used
+  - Set: 🖐️ used
+  - Hash table: 🖐️ used
   - Linked list
   - Doubly list
   - Unrolled list
@@ -128,21 +128,21 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON u
-  - JSON5 u
-  - YAML u
+  - JSON: 🖐️ used
+  - JSON5: 🖐️ used
+  - YAML: 🖐️ used
 - Networking
-  - DNS u
+  - DNS: 🖐️ used
   - CDN
-  - CORS u
-  - IPv4 u
-  - IPv6 u
-  - NAT u
-  - URL u
-  - URN u
-  - URI u
+  - CORS: 🖐️ used
+  - IPv4: 🖐️ used
+  - IPv6: 🖐️ used
+  - NAT: 🖐️ used
+  - URL: 🖐️ used
+  - URN: 🖐️ used
+  - URI: 🖐️ used
 - Process and tools
-  - Compiler h
+  - Compiler: 👂 heard
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -157,43 +157,43 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger u
+  - Debugger: 🖐️ used
   - Tracing
-  - Garbage collection h
-  - Refactoring e
-  - Code review e
-  - Exception u
+  - Garbage collection: 👂 heard
+  - Refactoring: 🙋 explained
+  - Code review: 🙋 explained
+  - Exception: 🖐️ used
   - Unittesting
-  - git u
-  - Github u
-  - Docker u
-  - Kubernetes e
+  - git: 🖐️ used
+  - Github: 🖐️ used
+  - Docker: 🖐️ used
+  - Kubernetes: 🙋 explained
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers h 
-  - Hard code u
-  - Soft code h
+  - Magic numbers: 👂 heard
+  - Hard code: 🖐️ used
+  - Soft code: 👂 heard
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti h
+  - Spaghetti: 👂 heard
   - Silver bullet
   - Not invented here
-  - Dead code h
-  - Unreachable code h
-  - Duplicate code u
+  - Dead code: 👂 heard
+  - Unreachable code: 👂 heard
+  - Duplicate code: 🖐️ used
   - Premature optimization
-  - Micro-optimization u
-  - Nested loops u
+  - Micro-optimization: 🖐️ used
+  - Nested loops: 🖐️ used
   - Long method/function/procedure
-  - Long inheritance u
-  - Large class/file u
-  - Too many parameters u
+  - Long inheritance: 🖐️ used
+  - Large class/file: 🖐️ used
+  - Too many parameters: 🖐️ used
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case u
+  - Use switch/case: 🖐️ used
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -202,38 +202,38 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode u
-  - V8 u
+  - Bytecode: 🖐️ used
+  - V8: 🖐️ used
   - VJM
   - CLR
   - Mono
 - Operating systems
   - Interrupts
   - Drivers
-  - Kernel h
-  - Ring h
-  - Virtual memory h
-  - File system h
-  - Linux u
+  - Kernel: 👂 heard
+  - Ring: 👂 heard
+  - Virtual memory: 👂 heard
+  - File system: 👂 heard
+  - Linux: 🖐️ used
   - Unix
   - BSD
-  - MacOS u
-  - Windows u
+  - MacOS: 🖐️ used
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII u
+  - ASCII: 🖐️ used
   - Escape sequence
-  - RFC u
+  - RFC: 🖐️ used
   - IETF
   - IANA
   - IEEE
-  - Base64 u
+  - Base64: 🖐️ used
   - ECMA
   - ICANN
-  - ISO u
+  - ISO: 🖐️ used
   - MIME
-  - OWASP u
-  - UTF-8 u
-  - W3C u
+  - OWASP: 🖐️ used
+  - UTF-8: 🖐️ used
+  - W3C: 🖐️ used
   - ODMG
