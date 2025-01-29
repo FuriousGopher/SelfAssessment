@@ -1,22 +1,22 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
+  - Procedural programming h
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
+  - Functional programming u
+  - Prototype-based programming u
+  - Object-oriented programming u
   - Object-based programming
-  - Generic programming
+  - Generic programming u
   - Concurrent computing
-  - Asynchronous programming
+  - Asynchronous programming u
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages
+  - Domain-specific languages u
   - Multi-paradigm programming
   - Metaprogramming
   - Actor model
@@ -27,44 +27,44 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
+  - Constructor u
+  - Operator `new` u
+  - Static method u
+  - Method u
+  - Async method u
+  - Getters, Setters u
   - Public fields
   - Private fields
   - Field declarations
   - Inheritance
   - Parent class
   - Polymorphism
-  - Abstract class
-  - Interface
+  - Abstract class h
+  - Interface u
   - Encapsulation
   - Hidden class
   - Object form
-  - Instance
+  - Instance u
   - Introspection
   - Reflection
   - The diamond problem
 - GRASP
   - Information expert
-  - Creator
-  - Controller
-  - Indirection
-  - Low coupling
-  - High cohesion
-  - Protected variations
-  - Pure fabrication
+  - Creator h
+  - Controller h 
+  - Indirection h
+  - Low coupling h
+  - High cohesion h
+  - Protected variations h
+  - Pure fabrication h
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Single-responsibility principle (SRP) u
+  - Open–closed principle (OCP) u
+  - Liskov substitution principle (LSP) u
+  - Interface segregation principle (ISP) u
+  - Dependency inversion principle (DIP) u
 - Patterns
-  - Singleton
+  - Singleton u
   - Factory Method
   - Abstract Factory
   - Adapter
@@ -80,7 +80,7 @@
   - Builder
   - Prototype
   - Composite
-  - Decorator
+  - Decorator u
   - Flyweight
   - Mediator
   - Memento
