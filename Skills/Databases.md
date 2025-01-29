@@ -1,41 +1,41 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
-  - Performance tuning
-  - Migrations
-  - Schema versioning
-  - Backup and recovery
-  - Database scalability
-  - Relational databases
-  - Key-value store
-  - Tuple store
-  - Graph databases
-  - Object databases
-  - Column databases
-  - Navigational databases
-  - Hierarchical databases
-  - In-memory databases
-  - Inverted index
-  - Data control language (DCL)
-  - Data definition language (DDL)
-  - Data manipulation language (DML)
-  - Data query language (DQL)
+  - Data types e
+  - Performance tuning e
+  - Migrations e
+  - Schema versioning e
+  - Backup and recovery e
+  - Database scalability e
+  - Relational databases e
+  - Key-value store e
+  - Tuple store u
+  - Graph databases  h
+  - Object databases h
+  - Column databases h
+  - Navigational databases h
+  - Hierarchical databases h
+  - In-memory databases e
+  - Inverted index h
+  - Data control language (DCL) e
+  - Data definition language (DDL) e
+  - Data manipulation language (DML) e
+  - Data query language (DQL) e
 - Relational
-  - Entity-Relationship Diagram
-  - Normal forms
-  - Indexing
-  - Primary keys
-  - Foreign keys
-  - Transactions
-  - Views
-  - Subqueries
-  - Stored procedures
-  - SQL functions
-  - Materialized views
-  - Replications
-  - Virtualization
-- SQL
+  - Entity-Relationship Diagram u
+  - Normal forms h
+  - Indexing e
+  - Primary keys e
+  - Foreign keys e
+  - Transactions e
+  - Views u
+  - Subqueries u
+  - Stored procedures u
+  - SQL functions u
+  - Materialized views h
+  - Replications h
+  - Virtualization h
+- SQL e
   - `SELECT`
   - `INSERT`
   - `UPDATE`
@@ -70,25 +70,25 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
-  - Oracle
-  - MySQL
-  - MariaDB
-  - MS SQL Server
-  - Redis
-  - Rabbit
-  - MongoDB
-  - Memcached
+  - PostgreSQL u
+  - Oracle h
+  - MySQL u
+  - MariaDB h
+  - MS SQL Server h
+  - Redis e
+  - Rabbit h
+  - MongoDB u
+  - Memcached 
   - Riak
   - DB2
-  - SQLite
-  - DynamoDB
-  - Firebase
+  - SQLite h
+  - DynamoDB h
+  - Firebase u
 - Data engineering
-  - Data warehousing
-  - Business intelligence
-  - Big data
-  - Data analysis
-  - AI tools
-  - Cloud databases
-  - Data Visualization
+  - Data warehousing h
+  - Business intelligence h
+  - Big data h
+  - Data analysis h
+  - AI tools h
+  - Cloud databases h
+  - Data Visualization h

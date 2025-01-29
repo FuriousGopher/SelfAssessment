@@ -1,11 +1,11 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model u
+  - Modeling h
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm h
+  - Syntax h
   - Semantics
   - Abstraction
   - Paradigm
@@ -13,24 +13,24 @@
   - Programming paradigm
   - Programming language
   - Contract
-  - Module
-  - Library
-  - Package
+  - Module h
+  - Library u
+  - Package u
   - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
+  - Framework u
+  - Platform u
+  - Source code u
+  - Object code h
+  - Machine code h
   - Microcode
-  - Software engineering
+  - Software engineering e
   - Decomposition
   - Control flow
   - Data flow
-  - Code reuse
-  - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Code reuse e
+  - Defensive programming e
+  - Don't repeat yourself (DRY) e
+  - KISS principle e
 - Syntax and concepts
   - Value
   - Identifier
@@ -39,39 +39,39 @@
   - Scalar
   - Literal
   - Expression
-  - Heap
-  - Function
+  - Heap u
+  - Function u
   - Procedure
-  - Method
-  - Class
+  - Method u
+  - Class u
   - Prototype
   - Event
-  - Type
+  - Type u
   - Flag
   - Lexical scope
   - Code block
   - Conditions
-  - Loops
+  - Loops u
   - Assignment
   - Regular expression
   - Interface
   - Namespaces
   - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
-  - Return early
-  - Fail-fast
+  - Naming conventions u
+  - Coding conventions u
+  - Camel case u
+  - Snake case u
+  - Kebab case u
+  - Trailing commas u
+  - Return early u
+  - Fail-fast u
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types u
+  - Reference types u
   - Type systems
-  - Strong typing
-  - Weak typing
-  - Duck typing
+  - Strong typing u
+  - Weak typing h
+  - Duck typing h
   - Static typing
   - Dynamic typing
   - Nominal typing
@@ -105,15 +105,15 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
+  - Array u
+  - Structure u
+  - Record u
+  - Enum u
   - Instance
   - Object
-  - Collection
-  - Set
-  - Hash table
+  - Collection u
+  - Set u
+  - Hash table u
   - Linked list
   - Doubly list
   - Unrolled list
@@ -128,21 +128,21 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
-  - JSON5
-  - YAML
+  - JSON u
+  - JSON5 u
+  - YAML u
 - Networking
-  - DNS
+  - DNS u
   - CDN
-  - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
-  - URN
-  - URI
+  - CORS u
+  - IPv4 u
+  - IPv6 u
+  - NAT u
+  - URL u
+  - URN u
+  - URI u
 - Process and tools
-  - Compiler
+  - Compiler h
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -157,43 +157,43 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger u
   - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
+  - Garbage collection h
+  - Refactoring e
+  - Code review e
+  - Exception u
   - Unittesting
-  - git
-  - Github
-  - Docker
-  - Kubernetes
+  - git u
+  - Github u
+  - Docker u
+  - Kubernetes e
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
+  - Magic numbers h 
+  - Hard code u
+  - Soft code h
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti h
   - Silver bullet
   - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Dead code h
+  - Unreachable code h
+  - Duplicate code u
   - Premature optimization
-  - Micro-optimization
-  - Nested loops
+  - Micro-optimization u
+  - Nested loops u
   - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters
+  - Long inheritance u
+  - Large class/file u
+  - Too many parameters u
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case u
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -202,38 +202,38 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
+  - Bytecode u
+  - V8 u
   - VJM
   - CLR
   - Mono
 - Operating systems
   - Interrupts
   - Drivers
-  - Kernel
-  - Ring
-  - Virtual memory
-  - File system
-  - Linux
+  - Kernel h
+  - Ring h
+  - Virtual memory h
+  - File system h
+  - Linux u
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS u
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII u
   - Escape sequence
-  - RFC
+  - RFC u
   - IETF
   - IANA
   - IEEE
-  - Base64
+  - Base64 u
   - ECMA
   - ICANN
-  - ISO
+  - ISO u
   - MIME
-  - OWASP
-  - UTF-8
-  - W3C
+  - OWASP u
+  - UTF-8 u
+  - W3C u
   - ODMG

@@ -1,6 +1,6 @@
 ## JavaScript
 
-- Language
+- Language u
   - `Object`
   - `Function`
   - `Boolean`
@@ -17,7 +17,7 @@
   - `...spread`
   - `...rest`
   - `typeof`
-  - Destructuring
+  - Destructuring u
   - Generators
   - Iterators
   - Async generator
@@ -25,74 +25,74 @@
   - Chaining
   - Optional chaining
   - IIFE
-  - Async IIFE
+  - Async IIFE u
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters
+  - Getters and setters h
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
-  - `yield`
-  - `await`
+  - Equality operators e
+  - Logical operators e
+  - Logical Assignment e e
+  - Bitwise operators e
+  - Ternary operator e
+  - `void` u
+  - `yield` k
+  - `await` u
   - Template literal
-  - Strict mode
-  - Hoisting
-  - `delete`
-  - `in`
-  - `super`
+  - Strict mode u
+  - Hoisting k
+  - `delete` u
+  - `in` u
+  - `super` u
   - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `static` u
+  - `Number.parseInt` u
+  - `Number.parseFloat` u
   - Property descriptors
   - Sealing properties
   - Freezing properties
   - Computed properties
   - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
-- Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
-  - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
-  - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
-  - `with`
-  - `new`
-- Functions
-  - Arrow function
-  - Async function
-  - Function declaration
-  - Function expression
+  - Static class fields u
+  - Private class fields u
+  - Private class methods u
+- Statements 
+  - `if` u
+  - `while` u
+  - `do..while` u
+  - `for` u
+  - `for..in` u
+  - `for..of` u
+  - `for await` u
+  - `throw` u
+  - `break` u
+  - `continue` u
+  - `import` u
+  - `export` u
+  - `label` u
+  - `try..catch` u
+  - `switch` u
+  - `class` u
+  - `extends` u
+  - `with` u
+  - `new` u
+- Functions 
+  - Arrow function u
+  - Async function u
+  - Function declaration u
+  - Function expression u
   - Default parameters
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` u
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
+  - `Array` u 
+  - `Map` u
+  - `Set` u
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
@@ -100,23 +100,23 @@
   - `Object.assign`
 - Standard classes and namespaces
   - `Proxy`
-  - `RegExp`
-  - `Date`
-  - `Math`
+  - `RegExp` u
+  - `Date` u
+  - `Math` u
   - `Reflect`
-  - `Error`
+  - `Error` u
   - `Atomics`
-  - `JSON`
+  - `JSON` u
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
-  - `console`
-  - Timers
+  - `Promise` u
+  - `console` u
+  - Timers u
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
-  - TC39
+  - V8 u
+  - Node.js u
+  - npm u
+  - prettier u
+  - MDN u
+  - TC39 h
